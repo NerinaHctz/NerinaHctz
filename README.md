@@ -13,7 +13,7 @@
 - Express
 - Tailwind
 
-- ## 📚 I’m currently learning
+## 📚 I’m currently learning
 - PHP
 - CodeIgniter 4
 
