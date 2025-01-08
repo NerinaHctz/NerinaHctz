@@ -3,7 +3,7 @@
 ## 🚀 Full Stack Developer
  I'm a Full Stack Developer based in Madrid with a solid foundation in modern web development. I specialize in building dynamic web applications using technologies like HTML, CSS, JavaScript, React.js, and Node.js. Passionate about learning and problem-solving, I enjoy creating innovative projects and collaborating in team environments to deliver seamless user experiences.
 
-## Iterested in work with
+## 🛠️ Interested in work with
 - React
 - JavaScript
 - CSS
