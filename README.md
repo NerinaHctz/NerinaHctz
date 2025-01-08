@@ -16,6 +16,7 @@
 ## 📚 I’m currently learning
 - PHP
 - CodeIgniter 4
+- Docker
 
 ## 📫 Contact
 https://www.linkedin.com/in/nerina-castillo/
