@@ -17,6 +17,7 @@
 - PHP
 - CodeIgniter 4
 - Docker
+- jQuery
 
 ## 📫 Contact
 https://www.linkedin.com/in/nerina-castillo/
