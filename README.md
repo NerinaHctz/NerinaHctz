@@ -18,6 +18,7 @@
 - CodeIgniter 4
 - Docker
 - jQuery
+- SASS
 
 ## 📫 Contact
 https://www.linkedin.com/in/nerina-castillo/
