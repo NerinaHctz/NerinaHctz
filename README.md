@@ -15,8 +15,6 @@
 
 ## 📚 I’m currently learning
 - PHP
-- CodeIgniter 4
-- Docker
 - jQuery
 - SASS
 
