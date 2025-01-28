@@ -23,7 +23,7 @@
 https://www.linkedin.com/in/nerina-castillo/
 
 ## Tecnologies
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,discord,github,react,mongodb,express,tailwind,nodejs,npm,vite,vscode,figma,bitbucket)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,discord,github,react,mongodb,express,tailwind,nodejs,npm,vite,vscode,figma,bitbucket,docker)](https://skillicons.dev)
 
 
 <!---
