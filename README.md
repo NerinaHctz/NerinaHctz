@@ -17,12 +17,13 @@
 - PHP
 - jQuery
 - SASS
+- CodeIgniter 4
 
 ## 📫 Contact
 https://www.linkedin.com/in/nerina-castillo/
 
 ## Tecnologies
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,discord,github,react,mongodb,express,tailwind,nodejs,npm,vite,vscode,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,discord,github,react,mongodb,express,tailwind,nodejs,npm,vite,vscode,figma,bitbucket)](https://skillicons.dev)
 
 
 <!---
