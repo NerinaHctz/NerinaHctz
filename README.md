@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Nerina Castillo
 
 ## 🚀 Full Stack Developer
- I'm a Full Stack Developer based in Madrid with a solid foundation in modern web development. I specialize in building dynamic web applications using technologies like HTML, CSS, JavaScript, React.js, and Node.js. Passionate about learning and problem-solving, I enjoy creating innovative projects and collaborating in team environments to deliver seamless user experiences.
+ I'm a Full Stack Developer based in Madrid with a solid foundation in modern web development. I specialize in building dynamic web applications using technologies like HTML, CSS, JavaScript, React.js, and Node.js. Currently, I work as a Front End Developer at ACCOM, where I specialize in building and maintaining dynamic and accessible web interfaces. In this role, I use technologies such as PHP, CodeIgniter, JavaScript, jQuery, and Bitbucket. Passionate about learning and problem-solving, I enjoy creating innovative projects and collaborating in team environments to deliver seamless user experiences.
 
 ## 🛠️ Interested in work with
 - React
@@ -12,12 +12,15 @@
 - MongoDB
 - Express
 - Tailwind
+- GitHub
 
 ## 📚 I’m currently learning
 - PHP
 - jQuery
 - SASS
 - CodeIgniter 4
+- Docker
+- Bitbucket
 
 ## 📫 Contact
 https://www.linkedin.com/in/nerina-castillo/
